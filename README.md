@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Charlie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqqe&count_private=false&theme=dracula&show_icons=true)
+![Noqqe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqqe&count_private=false&theme=dracula&show_icons=true)
 
 
 <!--
